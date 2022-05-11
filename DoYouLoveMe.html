@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        h1 {
+            text-align: center;
+            position: absolute;
+            top: 250px;
+            left: 700px;
+        }
+        #y {
+            text-align: center;
+            position: absolute;
+            top: 350px;
+            left: 750px;
+            padding: 10px 15px;
+        }
+        #n {
+            text-align: center;
+            position: absolute;
+            top: 350px;
+            left: 850px;
+            padding: 10px 15px;
+        }
+    </style>
+</head>
+<body>
+<form>
+    <h1>Do You Love Me?</h1>
+    <button id="y" onclick="yesDo()" >Yes</button>
+    <button id="n" onmouseover="noDo()" >No</button>
+</form>
+</body>
+<script>
+    function yesDo() {
+        let dongy = document.getElementById("y")
+        alert("<3")
+    }
+
+    function noDo() {
+        let a=Math.round( Math.random() ) * 800
+        let b=Math.round( Math.random() ) * 800
+        document.getElementById("n").style.top= a +"px"
+        document.getElementById("n").style.left= b +"px"
+
+    }
+</script>
+</html>
