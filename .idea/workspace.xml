@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0f2e95c-98f6-45d3-bbcb-dcf6f60480bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DoYouLoveMe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/may-tinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinh-ngay-thang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/webstorm",
+    "last_opened_file_path": "C:/Users/viets/WebstormProjects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652236144589</updated>
       <workItem from="1652236145745" duration="42000" />
-      <workItem from="1652242291056" duration="13848000" />
+      <workItem from="1652242291056" duration="15060000" />
     </task>
     <servers />
   </component>
