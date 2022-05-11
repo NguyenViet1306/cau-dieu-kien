@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0f2e95c-98f6-45d3-bbcb-dcf6f60480bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/may-tinh.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tinh-ngay-thang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2903OaxrKTxIsIluq5fmFJBcJIJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,6 +47,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -54,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652236144589</updated>
       <workItem from="1652236145745" duration="42000" />
-      <workItem from="1652242291056" duration="6321000" />
+      <workItem from="1652242291056" duration="8579000" />
     </task>
     <servers />
   </component>
