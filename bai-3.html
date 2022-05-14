@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="dis">0 <br> 1 </p>
+</body>
+</html>
+<script>
+    let n=0
+    let m=1
+    let c
+    for (let i = 1; n < 19; i++) {
+        c = n + m
+        n= m
+        m= c
+        document.getElementById("dis").innerHTML= c + "<br>"
+}
+
+
+</script>
